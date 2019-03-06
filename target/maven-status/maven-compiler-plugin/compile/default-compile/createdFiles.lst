@@ -1,0 +1,8 @@
+me\testdb\tool\InfluxConfig.class
+me\testdb\run\Satellite.class
+me\testdb\service\InfluxDBService.class
+me\testdb\tool\Structure.class
+me\testdb\service\InfluxDBService$1.class
+me\testdb\service\InfluxDBService$2.class
+me\testdb\tool\Pair.class
+me\testdb\run\Main.class
